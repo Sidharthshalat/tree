@@ -1,0 +1,15 @@
+count=1
+base=40
+width=40
+ground=40
+print=("    HAPPY CHRISTMAS  ")
+for i in range(10):
+    print(('*'*count).center(width))
+    count+=2
+print("######################*.center(base))
+print("||""||".center(width))
+print("||""||".center(width))
+print("||""||".center(width))
+print("!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!".center(ground))
+print("SIDHARTH SHALAT T")
+print("S1 ME")
